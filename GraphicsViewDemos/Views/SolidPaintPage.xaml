@@ -3,9 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:drawables="clr-namespace:GraphicsViewDemos.Drawables"
              x:Class="GraphicsViewDemos.Views.SolidPaintPage"
+             Loaded="OnLoaded"
+             Unloaded="OnUnloaded"
              Title="Solid paint demo">
     <ContentPage.Resources>
-        <drawables:SolidPaintDrawable x:Key="drawable" />
+        <drawables:SolidPaintDrawable x:Key="drawable" x:Name="solidPaintDrawable" />
     </ContentPage.Resources>
     <VerticalStackLayout>
         <GraphicsView x:Name="graphicsView" Drawable="{StaticResource drawable}" HeightRequest="500" WidthRequest="400" />

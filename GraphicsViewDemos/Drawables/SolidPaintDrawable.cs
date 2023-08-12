@@ -64,6 +64,8 @@ namespace GraphicsViewDemos.Drawables
 
         protected IDispatcherTimer quickTimer = null;
 
+        protected GraphicsView graphicsView = null;
+
 
         public SolidPaintDrawable()
         {
@@ -71,7 +73,24 @@ namespace GraphicsViewDemos.Drawables
             quickTimer.Interval = TimeSpan.FromMilliseconds(1);
             quickTimer.IsRepeating = true;
             quickTimer.Tick += (s, e) => OnQuickTimer(s, e);
+        }
+
+
+        public void SetGraphicsView(GraphicsView graphicsView)
+        {
+            this.graphicsView = graphicsView;
+        }
+
+
+        public void StartQuickTimer()
+        {
             quickTimer.Start();
+        }
+
+
+        public void StopQuickTimer()
+        {
+            quickTimer.Stop();
         }
 
 
@@ -82,7 +101,7 @@ namespace GraphicsViewDemos.Drawables
                 fontSize += deltaFontSize;
                 pushButton.rect.Width += 1;
                 pushButton.rect.Height += 1;
-                //graphicsView.Invalidate();
+                graphicsView.Invalidate();
             });
         }
 
