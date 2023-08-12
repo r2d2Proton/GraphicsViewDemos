@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GraphicsViewDemos
+build_property.ProjectDir = E:\Repos\.r2d2Proton\GraphicsViewDemos\GraphicsViewDemos\
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/AffineTransformPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.AffineTransformPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AffineTransformPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AffineTransformPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/BlendModesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.BlendModesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BlendModesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BlendModesPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/CombineTransformsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.CombineTransformsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CombineTransformsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CombineTransformsPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/DrawShapesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.DrawShapesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DrawShapesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DrawShapesPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/EvenOddWindingModePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.EvenOddWindingModePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EvenOddWindingModePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EvenOddWindingModePage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/ImagePaintPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.ImagePaintPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ImagePaintPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ImagePaintPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/ImagesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.ImagesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ImagesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ImagesPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/LinearGradientPaintPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.LinearGradientPaintPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LinearGradientPaintPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LinearGradientPaintPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/NonZeroWindingModePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.NonZeroWindingModePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NonZeroWindingModePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NonZeroWindingModePage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/PatternPaintPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.PatternPaintPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PatternPaintPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PatternPaintPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/RadialGradientPaintPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.RadialGradientPaintPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RadialGradientPaintPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RadialGradientPaintPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/RotateTransformPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.RotateTransformPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RotateTransformPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RotateTransformPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/ScaleTransformPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.ScaleTransformPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ScaleTransformPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ScaleTransformPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/SolidPaintPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.SolidPaintPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SolidPaintPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SolidPaintPage.xaml
+
+[E:/Repos/.r2d2Proton/GraphicsViewDemos/GraphicsViewDemos/Views/TranslateTransformPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GraphicsViewDemos.Views.TranslateTransformPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TranslateTransformPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TranslateTransformPage.xaml
